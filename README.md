@@ -47,7 +47,7 @@ Outputs:
 
 bucket_name = "amina-tf-demo-b7di6"
 
-```
+
 ## Screenshots (Verification in AWS Console)
 
 | Screenshot | Description |
