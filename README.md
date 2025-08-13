@@ -36,11 +36,9 @@ The Terraform configuration creates:
 ## Deployment
 ```bash
 terraform init
-terraform fmt && terraform validate
+terraform fmt & terraform validate
 terraform plan
 terraform apply
-
-** Example output after successful apply:**
 
 ```
 Outputs:
